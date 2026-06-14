@@ -1,16 +1,44 @@
-# React + Vite
+# XenoReach AI CRM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A polished frontend-only AI-native CRM built with React, Vite, and Tailwind CSS.
+This project demonstrates a complete sales and marketing dashboard experience with modern UI, responsive layout, and recruiter-ready polish.
 
-Currently, two official plugins are available:
+## What recruiters will notice
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Modern React + Vite stack** with fast development and production builds
+- **Responsive dashboard and mobile-friendly pages** for campaigns, customers, segments, analytics, and settings
+- **Professional UI/UX** using Tailwind CSS, reusable component design, and consistent app branding
+- **Mock AI workflow** for campaign assistant, segment builder, and timeline monitoring
+- **Realistic CRM experience** with authentication flow, protected routes, and data-driven pages
+- **Clean code structure** with route-based pages, layout components, custom hooks, and reusable UI elements
 
-## React Compiler
+## Key frontend features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Dashboard overview with charts and metrics
+- Customer management table with search and status badges
+- Campaign creation, monitoring, and communication timeline pages
+- AI assistant pages for campaigns and segment building
+- Analytics page with interactive charts and campaign insights
+- Settings page with configurable preferences and profile controls
 
-## Expanding the ESLint configuration
+## Why this is impressive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Built as a full-featured SPA with professional navigation and layout
+- Uses **mock data and analytics** to simulate a production-ready CRM
+- Designed for recruiters to recognize strong frontend architecture and UI attention
+- Ready to deploy on Vercel with SPA routing support
+
+## Run locally
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the dev server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
