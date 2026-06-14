@@ -28,6 +28,12 @@ This project demonstrates a complete sales and marketing dashboard experience wi
 - Designed for recruiters to recognize strong frontend architecture and UI attention
 - Ready to deploy on Vercel with SPA routing support
 
+## Backend scaffold
+
+- Includes an Express backend scaffold with REST API endpoints for auth, customers, campaigns, and segments
+- Uses `lowdb` as a simple local JSON database for demo data persistence
+- Provides the backend structure recruiters expect for a full-stack assignment
+
 ## Run locally
 
 1. Install dependencies:

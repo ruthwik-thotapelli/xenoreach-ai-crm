@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Priya Sharma",
+      "email": "priya@xenoreach.ai",
+      "password": "test1234"
+    }
+  ],
+  "customers": [
+    {
+      "id": "customer-1",
+      "name": "Sophie Turner",
+      "company": "Nova Retail",
+      "email": "sophie@novaretail.com",
+      "status": "active",
+      "value": 32000,
+      "region": "North America"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "campaign-1",
+      "name": "Summer AI Boost",
+      "status": "running",
+      "budget": 8600,
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-30"
+    }
+  ],
+  "segments": [
+    {
+      "id": "segment-1",
+      "name": "High-Value Shoppers",
+      "size": 2500,
+      "filters": ["repeat buyers", "high spend"]
+    }
+  ]
+}
